@@ -9,11 +9,11 @@
 
 ## Description
 
-More to come!
+Test Your Reactions!
 
 ## Instructions
 
-More to come!
+Click on the boxes and circles as quickly as you can!
 
 ## License
 
