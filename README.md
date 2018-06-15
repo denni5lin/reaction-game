@@ -9,11 +9,11 @@
 
 ## Description
 
-Test Your Reactions!
+This is a basic game to test your reaction time!
 
 ## Instructions
 
-Click on the boxes and circles as quickly as you can!
+Click on the boxes and circles as quickly as you can! There isn't a start button so be ready the moment page loads. The boxes and circles will pop up at random time and location. 
 
 ## License
 
