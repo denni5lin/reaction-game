@@ -1,5 +1,19 @@
 body{
-    font-family:sans-serif;
+    font-family: 'Titillium Web';
+    background: #E0EAFC;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #CFDEF3, #E0EAFC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h1, p{
+	text-align: center;
+	line-height: 1.1;
+	font-weight: normal;
+	color: white;
+	background: #6E6E6E;
+	margin: 0;
+	text-transform: uppercase;
+	padding: 10px 0;
 }
 
 #shape {
